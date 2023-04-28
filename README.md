@@ -34,6 +34,6 @@ Evaluating Logan Roy's favorite child across episodes of *Succession*.
 ## Day 15: Positive/Negative
 Sentiment in US general presidental debates from democratic and republican nominees. Debate dataset from https://github.com/jamesmartherus/debates.
 
-<img src="https://github.com/hschmidt12/30DayChartChallenge-2023/blob/main/charts/day15_posneg.jpeg"  height="50%">
+<img src="https://github.com/hschmidt12/30DayChartChallenge-2023/blob/main/charts/day15_posneg.jpeg"  width="50%">
 
 
