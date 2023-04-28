@@ -3,3 +3,4 @@ I took part in the 30 Day Chart Challenge in April 2023! This was a fun #RStats 
 
 ![Day 1: Part to Whole](https://github.com/hschmidt12/30DayChartChallenge-2023/blob/main/charts/day1_part-to-whole.jpeg){:width="50%"}
 
+<img src="https://github.com/hschmidt12/30DayChartChallenge-2023/blob/main/charts/day1_part-to-whole.jpeg"  width="50%" height="50%">
